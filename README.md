@@ -1,2 +1,2 @@
 # HTML-CSS-Sprite
-Page built by using html,css and sprite images
+This a non-resrponsive page built by using html,css and sprite images.
